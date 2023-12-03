@@ -1,6 +1,6 @@
 <div align="center">
+    <br>Flight Fare Prediction with Deployment
     <h1 align="center">
-       <br>Flight Fare Prediction with Deployment
         <img src="https://media.istockphoto.com/id/1562804822/photo/airplane-in-the-sky-with-thunder-and-lightning.jpg?s=612x612&w=0&k=20&c=DInkeLxq90tP0wAe8_MFpv1auIS2wzs8MCyc4CGZb78=" width="360" />
     </h1>
 
